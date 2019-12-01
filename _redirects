@@ -1,0 +1,3 @@
+http://amanohina.com/* https://amanohina.com/:splat 301!
+https://besthina.netlify.com/* https://amanohina.com/:splat 301!
+http://besthina.netlify.com/* https://amanohina.com/:splat 301!
